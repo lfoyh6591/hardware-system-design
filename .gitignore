@@ -1,0 +1,11 @@
+*.cache
+
+*.vscode-server
+
+build/
+
+*.bash_history
+
+*.viminfo
+
+*.wget-hsts
